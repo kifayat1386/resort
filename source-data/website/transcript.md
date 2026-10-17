@@ -1,0 +1,248 @@
+# Sreemangal Tea Resort & Golf — Interactive Profile (transcript)
+
+Source: https://bluemirror.24bd7.com
+
+Scraped from the live site `bluemirror.24bd7.com` (full HTML + all static assets).
+
+
+## Navigation Menu
+
+- Project Overview — প্রকল্প পরিচিতি 🏡
+- Executive Summary — নির্বাহী সারসংক্ষেপ 📋
+- View of the Main Gate — প্রস্তাবিত গেটের ভিউ 🌿
+- Museum Area-Cottage — মিউজিয়াম এরিয়া ও কটেজ 🖼️
+- Theme Park Party Center  — থিম পার্ক পার্টি সেন্টার 🚁
+- Boundary Wall Shop  — বাউন্ডারি ওয়াল ও প্রস্তাবিত দোকান  🌳
+- Cable Car Station & Helipad — ক্যাবল কার স্টেশন ও হেলিপ্যাড 🗺️
+- 9-Hole Golf Course — ৯-হোল গলফ 🏢
+- 150-Room Three-Story — ১৫০-কক্ষবিশিষ্ট তিনতলা হোটেল কমপ্লেক্স 🚪
+- Cottages & Villas — কটেজ ও ভিলা পরিকল্পনা 🏘️
+- Accommodation (150 Rooms) — আবাসিক ভবন ও ১৫০ কক্ষ 🛏️
+- Dining & Commercial Zone — রেস্টুরেন্ট ও বাণিজ্যিক এলাকা 🍽️
+- Swimming Pool & Recreation — সুইমিং পুল  🏊
+- Waterway & Fishing — জলধারা ও মাছ ধরার ব্যবস্থা 🎣
+- Cable Car Concept — ক্যাবল কার পরিকল্পনা 🚡
+- Tea Garden Experience — চা-বাগান ও প্রাকৃতিক পর্যটন 🍃
+- Museum & Heritage — মিউজিয়াম ও ঐতিহ্য 🏛️
+- Recreation & Other Facilities — বিনোদন ও অন্যান্য সুবিধা 🎡
+- Infrastructure & Utilities — অবকাঠামো ও ইউটিলিটি ⚡
+- Environmental Management — পরিবেশ সংরক্ষণ পরিকল্পনা 🌱
+- Implementation Roadmap — বাস্তবায়নের ধাপ 📈
+- Indicative Project Budget — সম্ভাব্য প্রকল্প বাজেট 💰
+- Financial & Operating Model — বিনিয়োগ ও পরিচালন কাঠামো 🏦
+- Expected Outcomes — প্রত্যাশিত সুফল ✨
+- Conclusion & Contact — উপসংহার ও যোগাযোগ 🤝
+
+## Slide-by-slide transcript
+
+### Slide 1
+- **type**: cover
+- **title**: প্রকল্প পরিচিতি
+- **image**: images/proposed-gate2.png
+- **lead**: Harmonizing Heritage Tea Hills with World-Class Hospitality
+- **bn**: শ্রীমঙ্গল টি রিসোর্ট অ্যান্ড গলফ
+
+### Slide 2
+- **title**: Executive Summary & Proposed Development
+- **en**: নির্বাহী সারসংক্ষেপ
+- **lead**: ঐতিহ্য, প্রকৃতি, আধুনিক গলফ পর্যটনের সমন্বয়ে Sreemangal Tea Resort & Golf-কে আন্তর্জাতিক মানের পর্যটন হিসেবে গড়ে তোলার প্রস্তাব।
+- **stats**: ≈ 78.7 বিঘা | প্রাথমিক জমির হিসাব | 110 | প্রস্তাবিত কটেজ | 150 | প্রস্তাবিত কক্ষ | 9-Hole | Proposed golf course
+- **cards**: 🏨 | Iconic 5-Star U-Shaped Hotel & Commercial Complex | আধুনিক U-আকৃতির পাঁচ তারকা হোটেল, আবাসন, রেস্টুরেন্ট ও বাণিজ্যিক সুবিধার সমন্বিত পরিকল্পনা। | 🚡 | Cable Car & Mega Lake | প্রাকৃতিক পরিবেশের মধ্যে মেগা লেক, জলভিত্তিক বিনোদন এবং ক্যাবল কারের সম্ভাব্য পরিকল্পনা। | 🚁 | Helipad | প্রয়োজনীয় কারিগরি সমীক্ষা, নিরাপত্তা যাচাই ও অনুমোদনসাপেক্ষে হেলিপ্যাড নির্মাণের প্রস্তাব। | 🕌 | প্রস্তাবিত মসজিদ | অতিথি ও দর্শনার্থীদের নামাজের সুবিধার জন্য পরিকল্পিত মসজিদ ও প্রয়োজনীয় সহায়ক ব্যবস্থা। | 🎣 | দুটি লেক / জলাধার | প্রস্তাবিত দুটি জলাধারের প্রতিটির দৈর্ঘ্য ২০০ মিটার এবং প্রস্থ ৩০ মিটার। মাছ ধরা ও প্রকৃতিভিত্তিক বিনোদনের সম্ভাব্য ব্যবস্থা। | ⛳ | Golf Course & Recreation | প্রকল্পের সামগ্রিক পরিকল্পনার সঙ্গে সামঞ্জস্য রেখে গলফ ও অবসর বিনোদনের সুবিধা উন্নয়নের প্রস্তাব।
+- **images**: images/proposed-gate.png | Proposed Grand Entrance Gate | images/after-entering.png | The view after entering through the gate. | images/9-Hole-Golf-Map.png | Proposed golf course spanning 5 bighas. | images/proposed-hotel.jpg | Iconic 5-Star U-Shaped Hotel & Commercial Complex | images/proposed-cablecar-lake.png | Cable Car & Mega Lake | images/proposed-helipad.jpg | Proposed Helipad | images/proposed-mosque.jpg | প্রস্তাবিত মসজিদ | images/proposed-lake-1.jpg | প্রথম লেক — ২০০ × ৩০ মিটার | images/proposed-lake-2.jpg | দ্বিতীয় লেক — ২০০ × ৩০ মিটার
+- **note**: উপরের স্থাপনা ও সুবিধাগুলো প্রস্তাবিত পরিকল্পনার অংশ। চূড়ান্ত বাস্তবায়নের আগে জমির জরিপ, প্রকৌশলগত সম্ভাব্যতা, পরিবেশগত মূল্যায়ন, ব্যয় নিরূপণ ও সংশ্লিষ্ট কর্তৃপক্ষের অনুমোদন প্রয়োজন।
+
+### Slide 3
+- **title**: View of the Main Gate and the Proposed Gate.
+- **en**: মূল গেট এবং প্রস্তাবিত গেটের ভিউ
+- **lead**: বর্তমান সময়ের চাহিদা, আধুনিক পর্যটনব্যবস্থা এবং দর্শনার্থীদের পরিবর্তিত প্রত্যাশার সঙ্গে সামঞ্জস্য রেখে শ্রীমঙ্গল টি রিসোর্ট অ্যান্ড গলফকে একটি আধুনিক, আকর্ষণীয় ও আন্তর্জাতিক মানের পর্যটন গন্তব্য হিসেবে গড়ে তোলাই এই প্রকল্পের মূল লক্ষ্য।
+- **cards**: 🏗️ | আধুনিকায়ন ও অবকাঠামো উন্নয়ন | বিদ্যমান স্থাপনা ও প্রবেশপথ আধুনিকায়ন, নান্দনিক পরিবেশ সৃষ্টি এবং সময়োপযোগী পর্যটন সুবিধা সংযোজন। | 🌿 | প্রকৃতি ও চা-ঐতিহ্য সংরক্ষণ | বড় গাছ, সবুজ এলাকা, চা-বাগানের প্রাকৃতিক সৌন্দর্য ও ঐতিহ্য অক্ষুণ্ণ রেখে পরিকল্পিত উন্নয়ন। | 🎯 | দর্শনার্থী আকর্ষণ বৃদ্ধি | আধুনিক আবাসন, বিনোদন, গলফ ও প্রকৃতিভিত্তিক অভিজ্ঞতার মাধ্যমে দেশি-বিদেশি পর্যটকদের আগ্রহ বৃদ্ধি। | 📈 | পর্যটন ও অর্থনৈতিক সম্ভাবনা | দর্শনার্থীর সংখ্যা ও অবস্থানকাল বাড়ানোর সম্ভাবনা তৈরি, স্থানীয় কর্মসংস্থান এবং ব্যবসায়িক সুযোগ সম্প্রসারণ।
+- **mediaTitle**: বর্তমান অবস্থা ও প্রস্তাবিত আধুনিকায়ন
+- **mediaSubtitle**: Existing Entrance vs Proposed Entrance Development
+- **images**: images/current-gate-1.jpg | The current gate – a view of the natural scenery is presented here.. | images/proposed-gate.png | View of the proposed gate | images/after-entering.png | View of the proposed gate
+- **videos**: videos/current-gate-1.mp4 | বর্তমান গেট — ভিডিও ১ | images/current-gate-1.jpg | videos/proposed-gate-1.mp4 | View of the proposed gate | images/proposed-gate.png | videos/proposed-gate-2.mp4 | প্রস্তাবিত গেট — ভিডিও | images/after-entering.png
+- **note**: প্রস্তাবিত নকশা ও উন্নয়ন পরিকল্পনা চূড়ান্ত জরিপ, প্রকৌশলগত মূল্যায়ন, পরিবেশগত বিবেচনা এবং সংশ্লিষ্ট কর্তৃপক্ষের অনুমোদনসাপেক্ষে বাস্তবায়ন করা হবে।
+
+### Slide 4
+- **title**: Plan for a Modern Mosque and 30 Cottages in the Museum Area.
+- **en**: মিউজিয়াম এরিয়ায় আধুনিক মসজিদ এবং ৩০টি কটেজের পরিকল্পনা
+- **lead**: বর্তমান স্থাপনা ও বাস্তব পরিবেশের ছবি যুক্ত করে প্রকল্পের বিদ্যমান অবস্থা এবং প্রস্তাবিত আধুনিক মসজিদ ও ৩০টি কটেজের পরিকল্পনা উপস্থাপন।
+- **images**: images/museum-area.jpg | বর্তমান মিউজিয়াম এরিয়া | images/current-cottages1.jpg | বর্তমান কটেজ | images/museum-area.jpg | Current view of the museum area next to the main gate.
+- **videos**: videos/proposed-gate-4.mp4 | বর্তমান মিউজিয়াম এরিয়া | images/current-museum.jpg | videos/proposed-insitegate.mp4 | View of the proposed gate | images/current-cottagezoon.jpg | videos/proposed-gate-4.mp4 | প্রস্তাবিত গেট — ভিডিও | images/museum-area.jpg | videos/proposed-museumzoom.mp4 | প্রস্তাবিত আধুনিক মিউজিয়ামের — 3D ভিডিও | images/proposed-museumzoom.jpg | videos/proposed-30-cottages.mp4 | প্রস্তাবিত ৩০টি কটেজ — 3D ভিডিও | images/proposed-30-cottages.png | videos/proposed-museum-area.mp4 | মসজিদ ও কটেজসহ সম্পূর্ণ মিউজিয়াম এরিয়া — 3D ভিডিও | images/proposed-mosque.jpg
+
+### Slide 5
+- **title**: Theme Park and Open Party Center
+- **en**: থিম পার্ক এবং ওপেন পার্টি সেন্টার
+- **lead**: প্রকল্প এলাকার বর্তমান গাছপালা, স্থাপনা, প্রবেশপথ ও প্রাকৃতিক পরিবেশের বাস্তব চিত্র এবং প্রস্তাবিত আধুনিকায়নের নকশা, ছবি ও ভিডিওর মাধ্যমে বর্তমান ও ভবিষ্যৎ অবস্থার তুলনামূলক উপস্থাপনা।
+- **/**: বর
+- **্**: None
+- **অবস**: থ
+- **া**: None
+- **ি**: None
+- **:**: images/current-aerial.jpg | প্রকল্প ওপেন পাটি সেন্টার এরিয়া
+- **[**: প্রস্তাবিত ২০ কটেজ প্ল্যান
+- **]**: None
+- **বর্তমান প্রাকৃতিক পরিবেশ ও বড় গাছ**: None
+- **প**: রস
+- **৩ট**: ভ
+- **বর্তমান প্রকল্প ওপেন পাটি সেন্টার এরিয়া**: images/after-them-park.png | প্রস্তাবিত থিম পার্ক ভেতরের দৃশ্য
+- **বর**: তম
+- **এব**: প
+- **videos**: videos/current-patysenter.mp4 | বর্তমান প্রকল্পের থিম পার্ক এবং ওপেন পাটি সেন্টার | images/current-aerial.jpg | videos/current-thimpark.mp4 | বর্তমান প্রাকৃতিক পরিবেশ ও বড় গাছ থিম পার্ক এরিয়া | images/site-nature.jpg | videos/current-cotes2.mp4 | বর্তমান প্রকল্প বড় বড় গাছ পরিদর্শন | images/site-nature.jpg | videos/proposed-pate-senter-1.mp4 | প্রকল্প ওপেন পাটি সেন্টার এরিয়া | images/proposed-pate-senter.png | videos/proposed-them-park.mp4 | প্রকল্প ওপেন পাটি সেন্টার এরিয়া | images/after-them-park.png | videos/proposed-masterplan.mp4 | প্রস্তাবিত কটেজ প্ল্যানের 3D ভিডিও | images/proposed-masterplan.png
+- **note**: বর্তমান অবস্থার ছবি ও ভিডিও বাস্তব সাইট পরিদর্শনের ভিত্তিতে এবং প্রস্তাবিত ছবি ও ভিডিও পরিকল্পিত উন্নয়নের ধারণা হিসেবে উপস্থাপিত। চূড়ান্ত নকশা ও বাস্তবায়ন সংশ্লিষ্ট জরিপ, কারিগরি মূল্যায়ন এবং অনুমোদনসাপেক্ষ।
+
+### Slide 6
+- **title**: Boundary Wall & Proposed Commercial Shop Development Plan
+- **en**: বর্তমান বাউন্ডারি ওয়াল ও প্রস্তাবিত আধুনিক বাণিজ্যিক দোকান নির্মাণ পরিকল্পনা
+- **lead**: শ্রীমঙ্গল টি রিসোর্ট অ্যান্ড মিউজিয়ামের সীমানাপ্রাচীরের বাইরের অংশ শ্রীমঙ্গল–ভানুগাছ সড়কসংলগ্ন। বর্তমানে বাউন্ডারি ওয়ালের বিভিন্ন অংশে পুরোনো দেয়াল, প্রাকৃতিক গাছপালা ও সড়কসংলগ্ন পরিবেশ দৃশ্যমান। প্রকল্পের এই অংশটি রিসোর্টের বহিরাঙ্গন সৌন্দর্য বৃদ্ধি এবং সড়কমুখী বাণিজ্যিক সুবিধা সম্প্রসারণের জন্য গুরুত্বপূর্ণ।
+- **/**: ৯-হ
+- **ো**: গলফ
+- **ক**: র
+- **্**: None
+- **৩ট**: ভ
+- **ি**: None
+- **[**: আধুনিক বাউন্ডারি ওয়ালসহ সারিবদ্ধ ৮টি দোকানের 3D ভিজ্যুয়াল
+- **বাউন্ডারি ওয়াল ও শ্রীমঙ্গল–ভানুগাছ সড়কের বাস্তব ছবি**: images/baoundry-owel-2.png | বাউন্ডারি ওয়াল ও শ্রীমঙ্গল–ভানুগাছ সড়কের বাস্তব ছবি
+- **]**: None
+- **৯-হ**: ল
+- **গলফ**: None
+- **videos**: videos/proposed-boundary.mp4 | বাউন্ডারি ওয়াল ও শ্রীমঙ্গল–ভানুগাছ সড়কের বাস্তব ছবি | images/boundary-photo.png | videos/proposed-boundary-1.mp4 | Proposed Commercial Shop Development Plan | images/proposed-boundary-2.png | videos/proposed-Shop-2.mp4 | প্রস্তাবিত গলফ কোর্স — সম্পূর্ণ ভিডিও উপস্থাপনা | images/proposed-Shop3.png
+- **note**: প্রস্তাবিত ৯-হোল গলফ কোর্সের চূড়ান্ত নকশা, জমির প্রয়োজনীয়তা ও বাস্তবায়ন কারিগরি সমীক্ষা, সাইটের উপযোগিতা এবং সংশ্লিষ্ট কর্তৃপক্ষের অনুমোদনসাপেক্ষ।
+
+### Slide 7
+- **title**: জমির ব্যবহার, ক্যাবল কার স্টেশন ও হেলিপ্যাড
+- **en**: Land Use, Cable Car Station & Helipad
+- **lead**: প্রকল্পের বর্তমান জমি ও প্রাকৃতিক পরিবেশ বিবেচনায় প্রস্তাবিত ক্যাবল কার স্টেশন এবং হেলিপ্যাডের অবস্থান, প্রবেশপথ, নিরাপত্তা ও ভূমি ব্যবহারের পরিকল্পনা ছবি ও 3D ভিডিওর মাধ্যমে উপস্থাপন।
+- **images**: images/site-nature.jpg | বর্তমান জমি ও প্রাকৃতিক পরিবেশ | images/proposed-cable-car-station.jpg | প্রস্তাবিত ক্যাবল কার স্টেশন | images/proposed-helipad.jpg | প্রস্তাবিত হেলিপ্যাড ও সংলগ্ন এলাকা
+- **videos**: videos/current-land-aerial.mp4 | বর্তমান জমির ড্রোন ভিউ | images/current-aerial.jpg | videos/proposed-cable-car-station.mp4 | প্রস্তাবিত ক্যাবল কার স্টেশন — 3D ভিডিও | images/proposed-cable-car-station.png | videos/proposed-helipad.mp4 | প্রস্তাবিত হেলিপ্যাড — 3D ভিডিও | images/proposed-helipad.jpg
+- **bullets**: বর্তমান জমির সীমানা, উচ্চতা ও পরিমাপ যাচাই | প্রস্তাবিত ক্যাবল কার স্টেশনের অবস্থান ও যাতায়াত ব্যবস্থা | হেলিপ্যাডের উপযুক্ত স্থান ও নিরাপদ প্রবেশপথ নির্ধারণ | বড় গাছ ও প্রাকৃতিক পরিবেশ সংরক্ষণ | প্রাকৃতিক পানি নিষ্কাশন ও পরিবেশগত মূল্যায়ন | প্রয়োজনীয় কারিগরি সমীক্ষা ও সংশ্লিষ্ট কর্তৃপক্ষের অনুমোদন
+
+### Slide 8
+- **title**: Proposed 9-Hole Golf Course
+- **en**: প্রস্তাবিত ৯-হোল গলফ কোর্স
+- **lead**: শ্রীমঙ্গল টি রিসোর্ট অ্যান্ড গলফের প্রস্তাবিত ৯-হোল গলফ কোর্সের নকশা, সবুজ গলফ ফেয়ারওয়ে এবং প্রাকৃতিক পরিবেশের সঙ্গে সামঞ্জস্যপূর্ণ গলফ পর্যটন সুবিধা ছবি ও 3D ভিডিওর মাধ্যমে উপস্থাপন করা হবে।
+- **/**: ৯-হ
+- **ো**: গলফ
+- **ক**: র
+- **্**: None
+- **৩ট**: ভ
+- **ি**: None
+- **[**: গলফ গ্রিন ও প্রাকৃতিক পরিবেশ
+- **প্রস্তাবিত ৯-হোল গলফ কোর্স — ড্রোন ভিউ**: images/9-Hole-Golf-Map.png | গলফ ফেয়ারওয়ে ও সবুজ ল্যান্ডস্কেপ
+- **]**: None
+- **৯-হ**: ল
+- **গলফ**: None
+- **videos**: videos/proposed-golf-drone.mp4 | ৯-হোল গলফ কোর্স — এরিয়াল ভিউ | images/9-Hole-Golf-mat11.png | videos/proposed-golf-course.mp4 | গলফ কোর্স — 3D ওয়াকথ্রু | images/9-Hole-Golf-mat.png | videos/proposed-golf-presentation.mp4 | প্রস্তাবিত গলফ কোর্স — সম্পূর্ণ ভিডিও উপস্থাপনা | images/proposed-golf-green.png
+- **note**: প্রস্তাবিত ৯-হোল গলফ কোর্সের চূড়ান্ত নকশা, জমির প্রয়োজনীয়তা ও বাস্তবায়ন কারিগরি সমীক্ষা, সাইটের উপযোগিতা এবং সংশ্লিষ্ট কর্তৃপক্ষের অনুমোদনসাপেক্ষ।
+
+### Slide 9
+- **title**: প্রস্তাবিত লেক ও ১৫০-কক্ষবিশিষ্ট তিনতলা হোটেল কমপ্লেক্স
+- **en**: Proposed Lake & 150-Room Three-Story Hotel and Commercial Complex
+- **lead**: শ্রীমঙ্গল টি রিসোর্ট অ্যান্ড গলফ প্রকল্পের আওতায় প্রস্তাবিত আধুনিক তিনতলা হোটেল ও বাণিজ্যিক কমপ্লেক্সে মোট ১৫০টি অতিথিকক্ষ থাকবে দ্বিতীয় ও তৃতীয় তলায়। নিচতলায় থাকবে আধুনিক শপিং আর্কেড, রেস্টুরেন্ট, ক্যাফে, অভ্যর্থনা লবি এবং অন্যান্য পর্যটন ও বাণিজ্যিক সুবিধা। ভবনের সামনে প্রস্তাবিত মনোরম লেক, সবুজ ল্যান্ডস্কেপিং ও পর্যটকদের বিনোদনের ব্যবস্থা প্রকল্পটিকে একটি আকর্ষণীয় পর্যটন গন্তব্য হিসেবে গড়ে তুলবে।
+- **images**: images/proposed-lake-1.jpg | প্রস্তাবিত লেক ও প্রাকৃতিক ল্যান্ডস্কেপ | images/proposed-hotel.jpg | প্রস্তাবিত ১৫০-কক্ষবিশিষ্ট তিনতলা হোটেল ও বাণিজ্যিক কমপ্লেক্স | images/proposed-lake-2.jpg | লেক, হোটেল ও শপিং প্রস্তাবিত লেক ও প্রাকৃতিক 
+- **videos**: videos/proposed-lake.mp4 | প্রস্তাবিত লেকের 3D ভিডিও | images/proposed-lake-1.jpg | videos/proposed-three-story-building.mp4 | ১৫০-কক্ষবিশিষ্ট তিনতলা হোটেল কমপ্লেক্সের 3D ভিডিও | images/proposed-hotel.jpg | videos/proposed-lake.mp4 | লেক, হোটেল ও বাণিজ্যিক কমপ্লেক্সের ড্রোন ভিউ | images/proposed-lake-2.jpg
+- **bullets**: নিচতলা: শপিং আর্কেড, রেস্টুরেন্ট, ক্যাফে, রিসেপশন ও বাণিজ্যিক সুবিধা | দ্বিতীয় তলা: আধুনিক অতিথিকক্ষ ও প্রয়োজনীয় সেবা | তৃতীয় তলা: আধুনিক অতিথিকক্ষ ও প্রয়োজনীয় সেবা | দ্বিতীয় ও তৃতীয় তলায় সর্বমোট ১৫০টি অতিথিকক্ষ | ভবনের সামনে আকর্ষণীয় লেক ও সবুজ ল্যান্ডস্কেপিং | পর্যটকদের জন্য আধুনিক যাতায়াত, পার্কিং ও নিরাপত্তা ব্যবস্থা
+- **note**: ১৫০টি অতিথিকক্ষের চূড়ান্ত বিন্যাস, ভবনের আয়তন ও অন্যান্য সুবিধা স্থাপত্য নকশা, প্রকৌশল সমীক্ষা এবং সংশ্লিষ্ট কর্তৃপক্ষের অনুমোদন অনুযায়ী নির্ধারিত হবে।
+
+### Slide 10
+- **title**: কটেজ ও ভিলা পরিকল্পনা
+- **en**: Cottages & Villas
+- **lead**: প্রাথমিক পরিকল্পনা অনুযায়ী ১১০টি কটেজের ধারণা, যার মধ্যে ৩০টি দোতলা কটেজ প্রস্তাবিত।
+- **images**: images/proposed-cottages.jpg | প্রস্তাবিত কটেজ | images/proposed-villa.jpg | প্রস্তাবিত ভিলা | images/proposed-cottages-aerial.jpg | কটেজ এলাকার এরিয়াল ভিউ
+- **videos**: videos/proposed-cottages.mp4 | কটেজের 3D ভিডিও
+
+### Slide 11
+- **title**: আবাসিক ভবন ও ১৫০ কক্ষ
+- **en**: Accommodation (150 Rooms)
+- **lead**: প্রস্তাবিত চারতলা ভবনসহ মোট ১৫০টি অতিথিকক্ষের ধারণা।
+- **images**: images/proposed-building.jpg | প্রস্তাবিত ভবন | images/proposed-room.jpg | প্রস্তাবিত কক্ষের ডিজাইন
+- **videos**: videos/proposed-building.mp4 | ভবনের 3D ভিডিও
+
+### Slide 12
+- **title**: রেস্টুরেন্ট ও বাণিজ্যিক এলাকা
+- **en**: Dining & Commercial Zone
+- **lead**: রেস্টুরেন্ট, স্থানীয় পণ্যের দোকান, চা-ভিত্তিক পণ্য ও পর্যটক সেবার সম্ভাব্য পরিকল্পনা।
+- **images**: images/proposed-restaurant.jpg | প্রস্তাবিত রেস্টুরেন্ট | images/proposed-market.jpg | বাণিজ্যিক এলাকা
+
+### Slide 13
+- **title**: সুইমিং পুল ও অবসর সুবিধা
+- **en**: Swimming Pool & Recreation
+- **lead**: অতিথিদের অবসর, পরিবারবান্ধব বিনোদন ও নিরাপদ পুল ব্যবস্থাপনার প্রস্তাব।
+- **images**: images/current-pool.jpg | বর্তমান সুইমিং পুল | images/proposed-pool.jpg | প্রস্তাবিত পুল
+
+### Slide 14
+- **title**: জলধারা ও মাছ ধরার ব্যবস্থা
+- **en**: Waterway & Fishing
+- **lead**: বড় গাছ ও প্রাকৃতিক পরিবেশের মধ্য দিয়ে পরিকল্পিত জলধারা ও বিনোদনমূলক মাছ ধরার ব্যবস্থা।
+- **images**: images/proposed-waterway.jpg | প্রস্তাবিত জলধারা | images/proposed-fishing.jpg | মাছ ধরার এলাকা
+- **videos**: videos/proposed-waterway.mp4 | জলধারার 3D ভিডিও
+
+### Slide 15
+- **title**: ক্যাবল কার পরিকল্পনা
+- **en**: Cable Car Concept
+- **lead**: প্রকল্পের নির্বাচিত অংশে পর্যটন অভিজ্ঞতা সমৃদ্ধ করার সম্ভাব্য ক্যাবল কার ধারণা।
+- **images**: images/proposed-cablecar.jpg | ক্যাবল কারের প্রস্তাবিত দৃশ্য | images/proposed-cablecar-lower.jpg | ক্যাবল কারের নিচের দৃশ্য
+- **videos**: videos/proposed-cablecar.mp4 | ক্যাবল কারের 3D ভিডিও
+- **note**: বাস্তবায়নের আগে বিশেষায়িত সম্ভাব্যতা সমীক্ষা, নিরাপত্তা নকশা ও অনুমোদন প্রয়োজন।
+
+### Slide 16
+- **title**: চা-বাগান ও প্রাকৃতিক পর্যটন
+- **en**: Tea Garden Experience
+- **lead**: শ্রীমঙ্গলের চা-সংস্কৃতি, সবুজ পরিবেশ ও প্রকৃতিভিত্তিক পর্যটন অভিজ্ঞতার বিকাশ।
+- **images**: images/tea-garden.jpg | চা-বাগানের দৃশ্য | images/tea-walk.jpg | প্রকৃতির মধ্যে হাঁটার পথ
+
+### Slide 17
+- **title**: মিউজিয়াম ও ঐতিহ্য
+- **en**: Museum & Heritage
+- **lead**: চা-শিল্পের ইতিহাস, ঐতিহ্য, স্থানীয় সংস্কৃতি ও শিক্ষামূলক প্রদর্শনীর সম্ভাব্য পরিকল্পনা।
+- **images**: images/proposed-museum.jpg | প্রস্তাবিত মিউজিয়াম | images/museum-gallery.jpg | প্রদর্শনী এলাকা
+
+### Slide 18
+- **title**: বিনোদন ও অন্যান্য সুবিধা
+- **en**: Recreation & Other Facilities
+- **lead**: পর্যটক ও অতিথিদের জন্য বিভিন্ন অবসর ও সেবা সুবিধার সম্ভাব্য বিন্যাস।
+- **cards**: 🛍️ | মার্কেট | স্থানীয় পণ্য ও পর্যটনসামগ্রী। | 🍽️ | রেস্টুরেন্ট | খাবার ও পানীয় সেবা। | 🎪 | ইভেন্ট স্পেস | অনুমোদনসাপেক্ষে অনুষ্ঠান আয়োজন। | 🚗 | পার্কিং | নিরাপদ যানবাহন চলাচল ও পার্কিং।
+- **images**: images/proposed-market.jpg | বাণিজ্যিক সুবিধা | images/proposed-landscape.jpg | ল্যান্ডস্কেপ
+
+### Slide 19
+- **title**: অবকাঠামো ও ইউটিলিটি
+- **en**: Infrastructure & Utilities
+- **lead**: প্রকল্পের নিরাপদ পরিচালনার জন্য প্রয়োজনীয় প্রকৌশল ও সহায়ক অবকাঠামো।
+- **bullets**: বিদ্যুৎ ও ব্যাকআপ পাওয়ার | পানি সরবরাহ ও বর্জ্যপানি ব্যবস্থাপনা | অগ্নিনিরাপত্তা ও জরুরি বহির্গমন | ইন্টারনেট ও CCTV | অভ্যন্তরীণ রাস্তা, ড্রেনেজ ও পার্কিং
+
+### Slide 20
+- **title**: পরিবেশ সংরক্ষণ পরিকল্পনা
+- **en**: Environmental Management
+- **lead**: প্রাকৃতিক পরিবেশের ভারসাম্য রক্ষা করে দায়িত্বশীল পর্যটন উন্নয়ন।
+- **cards**: 🌳 | বৃক্ষ সংরক্ষণ | বড় গাছের অবস্থান চিহ্নিত ও সংরক্ষণ। | 💧 | পানি ব্যবস্থাপনা | পানি সাশ্রয় ও নিষ্কাশন পরিকল্পনা। | ♻️ | বর্জ্য ব্যবস্থাপনা | বর্জ্য পৃথকীকরণ ও নিরাপদ নিষ্পত্তি। | 🌱 | সবুজ নির্মাণ | প্রাকৃতিক আলো ও শক্তি সাশ্রয়।
+
+### Slide 21
+- **title**: বাস্তবায়নের ধাপ
+- **en**: Implementation Roadmap
+- **lead**: জরিপ, নকশা, অনুমোদন ও বাজেটের ভিত্তিতে পর্যায়ক্রমে প্রকল্প বাস্তবায়নের প্রস্তাব।
+- **cards**: ০১ | জরিপ ও যাচাই | জমির নথি, স্থাপনা ও প্রয়োজনীয় সমীক্ষা। | ০২ | নকশা ও অনুমোদন | মাস্টার প্ল্যান ও প্রকৌশল নকশা। | ০৩ | প্রাথমিক উন্নয়ন | প্রবেশপথ ও নির্বাচিত অবকাঠামো। | ০৪ | পরবর্তী উন্নয়ন | পরিকল্পনা অনুযায়ী বাকি সুবিধা।
+
+### Slide 22
+- **title**: সম্ভাব্য প্রকল্প বাজেট
+- **en**: Indicative Project Budget
+- **lead**: পরিমাপ, নকশা, স্পেসিফিকেশন ও বাজারদরভিত্তিক প্রাক্কলনের মাধ্যমে চূড়ান্ত বাজেট নির্ধারণ।
+- **cards**: 🏗️ | স্থাপনা নির্মাণ | কটেজ, ভবন ও রেস্টুরেন্ট। | 🛣️ | অবকাঠামো | রাস্তা, ড্রেনেজ ও ইউটিলিটি। | 🌿 | ল্যান্ডস্কেপিং | বাগান ও বহিরাঙ্গন উন্নয়ন। | ⚙️ | বিশেষ সুবিধা | গলফ ও ক্যাবল কারের পৃথক সমীক্ষা।
+- **note**: যাচাইকৃত BOQ ও বাজারদর ছাড়া কোনো মোট বাজেটকে চূড়ান্ত হিসেবে দেখানো হবে না।
+
+### Slide 23
+- **title**: বিনিয়োগ ও পরিচালন কাঠামো
+- **en**: Financial & Operating Model
+- **lead**: মালিকানা, প্রশাসনিক দায়িত্ব, পরিচালন ব্যয় ও প্রযোজ্য সরকারি অনুমোদনের ভিত্তিতে কাঠামো নির্ধারণ।
+- **bullets**: মালিকানা ও প্রশাসনিক দায়িত্ব যাচাই | নির্মাণ ও পরিচালন ব্যয় পৃথক করা | সম্ভাব্য আয় ও বাজার সমীক্ষা | রক্ষণাবেক্ষণ ও জনবল পরিকল্পনা | চুক্তি, ক্রয় ও নিরীক্ষা প্রক্রিয়া
+
+### Slide 24
+- **title**: প্রত্যাশিত সুফল
+- **en**: Expected Outcomes
+- **lead**: সঠিক পরিকল্পনা ও বাস্তবায়নের মাধ্যমে সম্ভাব্য পর্যটন, কর্মসংস্থান ও স্থানীয় অর্থনৈতিক সুবিধা।
+- **cards**: 👥 | কর্মসংস্থান | নির্মাণ ও পর্যটন সেবায় কর্মসংস্থানের সম্ভাবনা। | 🏞️ | পর্যটন উন্নয়ন | শ্রীমঙ্গলের পর্যটন অভিজ্ঞতায় নতুন মাত্রা। | 🛍️ | স্থানীয় ব্যবসা | স্থানীয় পণ্য ও সেবা খাতের বিকাশ। | 🌿 | প্রাকৃতিক অভিজ্ঞতা | প্রকৃতি ও ঐতিহ্যভিত্তিক পর্যটন।
+
+### Slide 25
+- **title**: উপসংহার ও যোগাযোগ
+- **en**: Conclusion & Contact
+- **lead**: ঐতিহ্য, প্রকৃতি, আধুনিক আতিথেয়তা ও গলফ পর্যটনের সমন্বয়ে একটি পরিকল্পিত গন্তব্যের প্রস্তাব।
+- **image**: images/proposed-gate.jpg
+- **bullets**: যাচাইকৃত তথ্য ও বাস্তব ছবির ভিত্তিতে উপস্থাপনা | অনুমোদিত মাস্টার প্ল্যান ও সম্ভাব্যতা যাচাই | ধাপে ধাপে বাস্তবায়ন ও পর্যবেক্ষণ

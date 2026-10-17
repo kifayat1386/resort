@@ -1,0 +1,33 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build artifacts (not part of source data or final deliverable)
+*.log
+*.tmp
+*.bak
+
+# Keep:
+# - proposal/*.pdf (final deliverable)
+# - source-data/** (verified source materials)
+# - README.md
